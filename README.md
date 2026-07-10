@@ -7,7 +7,7 @@ Notes from working through PortSwigger's Server-side vulnerabilities path. Used 
  
 | # | Lab | Category |
 |---|-----|----------|
-| 01 | [File path traversal, simple case](01-file-path-traversal-simple-case.md) | Path Traversal |
+| 01 | [File path traversal, simple case](Server-Side Vulnerabilities/01-file-path-traversal-simple-case.md) | Path Traversal |
 | 02 | [Unprotected admin functionality](02-unprotected-admin-functionality.md) | Access Control |
 | 03 | [Unprotected admin functionality, unpredictable URL](03-unprotected-admin-functionality-unpredictable-url.md) | Access Control |
 | 04 | [User role controlled by request parameter](04-user-role-controlled-by-request-parameter.md) | Access Control |
